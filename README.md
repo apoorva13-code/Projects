@@ -3,7 +3,7 @@ As a business data analyst, I'm new to the coding and software side. While I hav
 
 I began with small steps and am excited to start building interesting projects. Here's my first web design project using HTML.
 
-Fun fact: While many people learn HTML in school or during their undergrad, coming from a mechanical engineering background (now working in IT), this is still new to me!
+✨Fun fact: While many people learn HTML in school or during their undergrad, coming from a mechanical engineering background (now working in IT), this is still new to me!
 
 Check out the link below to view my project.
 https://apoorvap13.github.io/CatApp-WebDesignProject/
